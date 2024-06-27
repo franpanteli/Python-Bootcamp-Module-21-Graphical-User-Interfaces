@@ -30,4 +30,6 @@ This repository is organised into the following sections:
    slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-21-Graphical-User-Interfaces/blob/main/GUI%20Basics%20with%20Python%20Slides.pdf).
 
 ### To Clone This Repository
+```
 git clone https://github.com/franpanteli/Python-Bootcamp-Module-21-Graphical-User-Interfaces.git
+```
